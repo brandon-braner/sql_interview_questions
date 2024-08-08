@@ -1,7 +1,3 @@
-# database connection on supabase
+# SQL Interview Questions 
 
-
-Host: `aws-0-us-east-1.pooler.supabase.com` 
-Port: `6543` 
-User: `postgres.ipvqxuiiwrfcdqvucpkg`
-Password: `SqlInterview12!`
+A repo of sql interview questions I am working on preping a friend for job interviews
